@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MVX_Audio_Separator)(type Legacy)(uri ${KIPRJMOD}/MVX_Audio_Separator.lib)(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri /Users/jeffchen/KiCAD/Files/power/power.lib)(options "")(descr ""))
+)

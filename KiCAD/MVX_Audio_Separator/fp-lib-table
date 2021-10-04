@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MVX_Audio_Separator)(type KiCad)(uri ${KIPRJMOD}/MVX_Audio_Separator.pretty)(options "")(descr ""))
+)
