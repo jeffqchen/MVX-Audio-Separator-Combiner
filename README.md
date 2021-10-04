@@ -43,6 +43,7 @@ PCB - 2 PCB per assembly (Gerber file also available)
 Solder the VGA ports according to the silk screen print. Make sure the ports sit tightly on top of the PCB. Solder two copies of the PCB assembly. Make sure to trim the extra length of the pins of the audio jack for the upper assembly, or it will interfere with the bottom assembly.
 
 Insert two nuts into the slot inside the right shell
+
 <img src="./Pics/screw1.jpg" width="400px" />
 <img src="./Pics/screw1.jpg" width="400px" />
 
