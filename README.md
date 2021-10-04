@@ -33,7 +33,7 @@ Thumb Screw
 
 PCB - 2 PCB per assembly (Gerber file also available)
 - https://oshpark.com/shared_projects/5r6jeMxH
--
+
 3D Printed Shells
 
 
@@ -45,9 +45,11 @@ Solder the VGA ports according to the silk screen print. Make sure the ports sit
 
 Insert two nuts into the slot inside the right shell
 <img src="./Pics/screw1.jpg" width="400px" />
+
 <img src="./Pics/screw1.jpg" width="400px" />
 
 Insert the two PCB assembly into the right shell
+
 <img src="./Pics/insert_pcb.jpg" width="400px" />
 
 Close the left shell onto the right. Then screw in the two M3x20 screws. Do not over tighten the screws, or the nuts would break free inside the slots.
