@@ -45,7 +45,7 @@ Solder the VGA ports according to the silk screen print. Make sure the ports sit
 Insert two nuts into the slot inside the right shell
 
 <img src="./Pics/screw1.jpg" width="400px" />
-<img src="./Pics/screw1.jpg" width="400px" />
+<img src="./Pics/screw2.jpg" width="400px" />
 
 Insert the two PCB assembly into the right shell
 
