@@ -2,8 +2,7 @@
 An Audio Signal Separator for MVX
 
 <img src="./Pics/cover.jpg" width="400px" />
-<img src="./Pics/outside.jpg" width="400px" />
-<img src="./Pics/inside.jpg" width="400px" />
+<img src="./Pics/outside.jpg" width="200px" /> <img src="./Pics/inside.jpg" width="200px" />
 
 This is a dongle for separating audio from VGA pin 12 and 15 and output from a 3.5mm jack, in order to feed it into the Extron MVX VGA switch.
 
