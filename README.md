@@ -31,7 +31,7 @@ Thumb Screw
 - https://www.aliexpress.com/item/4000822559291.html
 
 PCB - 2 PCB per assembly (Gerber file also available)
-- https://oshpark.com/shared_projects/5r6jeMxH
+- https://oshpark.com/shared_projects/hu1XFzAE
 
 3D Printed Shells
 
