@@ -39,6 +39,8 @@ PCB - 2 PCB per assembly (Gerber file also available)
 3D Printed Shells
 
 
+*If you wish to break out the audio from the VGA cable at any time, you can make just ONE of these PCB and use it.*
+
 -------
 
 ## Assembly
