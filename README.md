@@ -16,6 +16,8 @@ Here are the necessary parts:
 
 - PCB - 2 PCB per assembly - [Link](https://oshpark.com/shared_projects/WU69JtAB)
 
+*If you wish to break out the audio from the VGA cable at any time, you can make just ONE of these PCB and use it.*
+
 - VGA Port Slim Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole/info.md)
 
 - VGA Port Male Slim - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/VGA%20Slim%20Male%20Through%20Hole/info.md)
@@ -28,10 +30,7 @@ Here are the necessary parts:
 
 - 3.5mm Audio Jumper Cable - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/3.5mm%20Audio%20Jumper%20Cable/info.md)
 
-3D Printed Shells
-
-
-*If you wish to break out the audio from the VGA cable at any time, you can make just ONE of these PCB and use it.*
+- 3D Printed Shells
 
 -------
 
