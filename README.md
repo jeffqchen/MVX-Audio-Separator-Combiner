@@ -14,27 +14,19 @@ It's only necessary when you transmit audio through the VGA cable into/out of th
 
 Here are the necessary parts:
 
-VGA Female Slim
-- https://www.aliexpress.com/item/4000596805684.html
+- PCB - 2 PCB per assembly - [Link](https://oshpark.com/shared_projects/WU69JtAB)
 
-VGA Male Slim (DigiKeyt Part No. L717HDE15PD4CH4R-ND)
-- https://www.digikey.ca/en/products/detail/amphenol-icc-commercial-products/L717HDE15PD4CH4R/4886543
+- VGA Port Slim Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole/info.md)
 
-3.5mm Audio Jack (PJ-325), choose one
-- https://www.digikey.com/en/products/detail/cui-devices/SJ1-3535N/738696
-- https://www.aliexpress.com/item/1005002983859846.html
+- VGA Port Male Slim - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/VGA%20Slim%20Male%20Through%20Hole/info.md)
 
-M3x20mm screw & nut
-- https://www.amazon.com/gp/product/B014OO5KQG
+- Vertical 3.5mm Headphone Jack - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/Vertical%203.5mm%205-Pin%20Audio%20Jack/info.md)
 
-Thumb Screw
-- https://www.aliexpress.com/item/4000822559291.html
+- [2x] M3x20mm screw & nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
-PCB - 2 PCB per assembly (Gerber file also available)
-- https://oshpark.com/shared_projects/WU69JtAB
+- VGA Thumb Screw - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/VGA%20Thumb%20Screw/info.md)
 
-3.5mm Jumper Cable
-- https://www.aliexpress.com/item/4000465962340.html
+- 3.5mm Audio Jumper Cable - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/3.5mm%20Audio%20Jumper%20Cable/info.md)
 
 3D Printed Shells
 
