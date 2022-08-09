@@ -57,3 +57,15 @@ Last, screw in the thumb screw.
 ## Misc
 Due to the space restriction behind the MVX switch, you will need a audio jumper cable with both ends in a right angle for clearance. Here is an example:
 - https://www.aliexpress.com/item/4000465962340.html
+
+-----
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
